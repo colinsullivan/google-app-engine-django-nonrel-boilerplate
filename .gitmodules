@@ -1,0 +1,12 @@
+[submodule "lib/django-nonrel"]
+	path = lib/django-nonrel
+	url = git://github.com/adieu/django-nonrel.git
+[submodule "lib/djangoappengine"]
+	path = lib/djangoappengine
+	url = git://github.com/adieu/djangoappengine.git
+[submodule "lib/djangotoolbox"]
+	path = lib/djangotoolbox
+	url = git://github.com/adieu/djangotoolbox.git
+[submodule "lib/django-dbindexer"]
+	path = lib/django-dbindexer
+	url = git://github.com/adieu/django-dbindexer.git
