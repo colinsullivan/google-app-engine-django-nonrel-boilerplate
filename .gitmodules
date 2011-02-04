@@ -10,3 +10,6 @@
 [submodule "lib/django-dbindexer"]
 	path = lib/django-dbindexer
 	url = git://github.com/adieu/django-dbindexer.git
+[submodule "lib/gaeunit"]
+	path = lib/gaeunit
+	url = git@github.com:colinsullivan/gaeunit.git
