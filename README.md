@@ -4,14 +4,14 @@ Since you must include your dependencies in any GAE application, you can clone t
 
 To get started:
 
-`mkdir myproject
-cd myproject
-git clone git://github.com/colinsullivan/google-app-engine-django-nonrel-boilerplate.git
-mv google-app-engine-django-nonrel-boilerplate/ myprojectapp
-cd myprojectapp/
-git submodule update --recursive
-./manage.py runserver
-`
+    mkdir myproject
+    cd myproject
+    git clone git://github.com/colinsullivan/google-app-engine-django-nonrel-boilerplate.git
+    mv google-app-engine-django-nonrel-boilerplate/ myprojectapp
+    cd myprojectapp/
+    git submodule update --recursive
+    ./manage.py runserver
+
 
 I didn't write any of this code.  Information about included packages (in lib/ directory):
 
