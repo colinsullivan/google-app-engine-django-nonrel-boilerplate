@@ -9,7 +9,7 @@ To get started:
     git clone git://github.com/colinsullivan/google-app-engine-django-nonrel-boilerplate.git
     mv google-app-engine-django-nonrel-boilerplate/ myprojectapp
     cd myprojectapp/
-    git submodule update --recursive
+    git submodule update --init
     ./manage.py runserver
 
 
